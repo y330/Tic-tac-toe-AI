@@ -1,2 +1,8 @@
 # tictactoeAI
-simple AI for tic tac toe by Yonah Aviv
+
+*Yonah Aviv*
+
+## Simple AI for tic tac toe
+
+
+Work in progress
