@@ -2,9 +2,7 @@
 
 *Yonah Aviv*
 
-## Simple AI for tic tac toe
-
 
 Work in progress
 
-[Go to code(main.py)](main.py)
+_[What makes it "smart"?](main.py#L132)_
