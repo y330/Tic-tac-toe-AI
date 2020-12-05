@@ -1,4 +1,4 @@
-# tictactoeAI
+# "Smart" Tic tac toe
 
 *Yonah Aviv*
 
