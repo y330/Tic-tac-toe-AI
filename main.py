@@ -129,12 +129,10 @@ class Game:
         good_move = {good_move[:1]}
         if len(good_move) == 2:
             return True
-
-
     def smart_move(self):
 		"""looks at all possible next moves with a depth of (Insert number), [not known yet how far this will go], and plays moves that do not result in a loss"""
 
-    possibles = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    	possibles = [1, 2, 3, 4, 5, 6, 7, 8, 9]
         is_exist = lambda x: x in possibles
 
         future_board = self.board
